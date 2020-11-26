@@ -1,0 +1,12 @@
+name: BlueTier
+title: BlueTier
+username:
+account: jasonmbennett
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 339203
+bundleId: 1524499
+url: https://jasonmbennett.shinyapps.io/BlueTier/
+when: 1533721954.03066
+asMultiple: FALSE
+asStatic: FALSE
